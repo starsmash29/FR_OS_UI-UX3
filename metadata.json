@@ -1,0 +1,6 @@
+{
+  "name": "FR_OS Telemetry & Network Operating System",
+  "description": "Next-generation network operating system telemetry, eBPF packet dissection, BGP peering explorer, MTR diagnostics, iPerf3 benchmark, Geo-IP perimeter filtering, and LAG/VLAN interface control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
